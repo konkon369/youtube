@@ -11,6 +11,7 @@ x = 100
 print('Thank you')
 
 
+print("modified by Koba")
 
 for i in range(100):
 	print(f"COUNT {i}")
